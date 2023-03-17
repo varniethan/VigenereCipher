@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Vigenere_chipher.iml" filepath="$PROJECT_DIR$/Vigenere_chipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VigenereCipher.iml" filepath="$PROJECT_DIR$/VigenereCipher.iml" />
     </modules>
   </component>
 </project>
